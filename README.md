@@ -1,1 +1,1 @@
-#JavaScript Sorting algorithm 
+# JavaScript Sorting Algorithm
